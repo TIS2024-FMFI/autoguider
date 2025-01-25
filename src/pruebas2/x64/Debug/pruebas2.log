@@ -1,0 +1,4 @@
+﻿  window.cpp
+  window.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+window.obj : warning LNK4248: símbolo (token) de typeref sin resolver (01000025) para 'gxetha.CCamera'; no se puede ejecutar la imagen
+  pruebas2.vcxproj -> C:\Users\Unax\source\repos\pruebas2\x64\Debug\pruebas2.exe

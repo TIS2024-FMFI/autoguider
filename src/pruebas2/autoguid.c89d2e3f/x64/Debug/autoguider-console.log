@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\j8san\Desktop\autoguider-console\autoguider-console\main.cpp(305,69): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  autoguider-console.vcxproj -> C:\Users\j8san\Desktop\autoguider-console\autoguider-console\x64\Debug\autoguider-console.exe

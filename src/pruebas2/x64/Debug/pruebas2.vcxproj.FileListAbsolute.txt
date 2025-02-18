@@ -1,0 +1,3 @@
+C:\Users\Unax\source\repos\pruebas2\pruebas2\x64\Debug\pruebas2.vcxproj.AssemblyReference.cache
+C:\Users\Unax\source\repos\pruebas2\pruebas2\x64\Debug\pruebas2.window.resources
+C:\Users\Unax\source\repos\pruebas2\pruebas2\x64\Debug\pruebas2.vcxproj.GenerateResource.cache
